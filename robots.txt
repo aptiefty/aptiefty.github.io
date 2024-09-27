@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aptiefty.github.io/sitemap.aptiefty.gz
+Sitemap: https://aptiefty.github.io/app/sitemap.aptiefty.gz
+Sitemap: https://aptiefty.github.io/assets/sitemap.aptiefty.gz
+Sitemap: https://aptiefty.github.io/css/sitemap.aptiefty.gz
+Sitemap: https://aptiefty.github.io/data/sitemap.aptiefty.gz
+Sitemap: https://aptiefty.github.io/includes/sitemap.aptiefty.gz
+Sitemap: https://aptiefty.github.io/item/sitemap.aptiefty.gz
+Sitemap: https://aptiefty.github.io/src/sitemap.aptiefty.gz
